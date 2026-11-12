@@ -1,1 +1,7 @@
-# WD1MCO_CS2A_Galvez_Sibayan_Valdez_Hernaez_jeorge
+**CONTRIBUTORS:**
+
+**Mark Julius Galvez** - HTML / CSS enhancement 
+**Marinel Sibayan** - JavaScript improvements, System enhancements
+**Vince Joren Valdez** - Assets, System enhancements, UI enhancements
+**Jayson Gacusan Hernaez** - Presenting the system
+**Justin jeorge** - Assets "Videos/Images"
