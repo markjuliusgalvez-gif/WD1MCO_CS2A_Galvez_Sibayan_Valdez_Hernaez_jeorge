@@ -9,6 +9,6 @@
 
 **Vince Joren Valdez** -  Assets, System enhancements, UI enhancements<br>
 
-**Jayson Gacusan Hernaez** - Presenting the system HTML <br>
+**Jayson Gacusan Hernaez** - Presenting the system details.HTML <br>
 
-**Justin jeorge** - Assets "Videos/Images" HTML-movie store<br>
+**Justin jeorge** - Assets "Videos/Images" movie store.html<br>
